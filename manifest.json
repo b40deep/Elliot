@@ -1,0 +1,15 @@
+{
+  "name": "Elliot's journal",
+  "short_name": "math game",
+  "start_url": ".",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/images/logo512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
