@@ -4,7 +4,7 @@ const textOutput = document.getElementById("text-output");
 const btnParse = document.getElementById("btn-parse");
 btnParse.addEventListener("click", parseEntries);
 
-const regex = /^([A-Za-z]+ \d+):\n(- .+(?:\n- .+)*)/gm;
+const regex = /^([A-Za-z]+ \d+[A-Za-z]*):\n- .+/gm;
 let matches;
 // let text = text;
 
