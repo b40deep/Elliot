@@ -25,8 +25,10 @@ This idea was from a conversation with my wife who mentioned that Jim Elliot use
     - month,
     - year / last year 
     - other (future) links e.g., edit, upload image, record audio, tags, links, etc
-- ▶️figure out a mobile layout before we proceed.
-- setup shadcn for sample CRUD homepage [eventually landing page will be the calendar view]
+- ✅figure out a mobile layout before we proceed.
+  - for the journal entry page
+  - for the naviagtion page
+- ▶️setup shadcn for sample CRUD homepage [eventually landing page will be the calendar view]
 - ✅finish parser - working as HTML page with an imported JS parser currently. moved to archive.
 - ✅migrate to ~~React Vite (with TS?)~~ NextJS
 - must be a PWA !important
